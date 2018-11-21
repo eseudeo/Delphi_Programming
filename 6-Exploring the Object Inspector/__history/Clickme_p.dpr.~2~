@@ -1,0 +1,14 @@
+program Clickme_p;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  frmHome_u in 'frmHome_u.pas' {frmHome};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TfrmHome, frmHome);
+  Application.Run;
+end.

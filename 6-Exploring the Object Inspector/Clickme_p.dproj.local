@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.080,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frmHome_u.fmx=D:\Delphi_Programming_Course\6-Exploring the Object Inspector\frmHome_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.169,D:\Delphi_Programming_Course\6-Exploring the Object Inspector\Delphi_Course_Video_6.dproj=D:\Delphi_Programming_Course\6-Exploring the Object Inspector\Clickme_p.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.107,D:\Delphi_Programming_Course\6-Exploring the Object Inspector\frmHome_u.pas=D:\Delphi_Programming_Course\6-Exploring the Object Inspector\Clickme_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.080,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frmHome_u.pas=D:\Delphi_Programming_Course\6-Exploring the Object Inspector\frmHome_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.651,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frmHome_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.651,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frmHome_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.107,D:\Delphi_Programming_Course\6-Exploring the Object Inspector\frmHome_u.fmx=D:\Delphi_Programming_Course\6-Exploring the Object Inspector\Clickme_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.677,=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.078,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Delphi_Course_Video_6.dproj=D:\Delphi_Programming_Course\6-Exploring the Object Inspector\Delphi_Course_Video_6.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.202,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Delphi_Course_Video_6.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
