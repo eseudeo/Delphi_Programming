@@ -1,0 +1,47 @@
+object frmHome: TfrmHome
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object btnTransfer: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 4.000000000000000000
+    Position.Y = 116.000000000000000000
+    Size.Width = 633.000000000000000000
+    Size.Height = 137.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = #51060#47492' '#51204#49569
+    TextSettings.Font.Size = 20.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = btnTranferClick
+  end
+  object edtInput: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 1
+    TextSettings.Font.Size = 20.000000000000000000
+    Position.X = 4.000000000000000000
+    Position.Y = 4.000000000000000000
+    Size.Width = 633.000000000000000000
+    Size.Height = 110.000000000000000000
+    Size.PlatformDefault = False
+    TextPrompt = #51060#47492#51012' '#51077#47141#54616#49884#50724'.'
+    StyledSettings = [Family, Style, FontColor]
+  end
+  object lblOuput: TLabel
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 4.000000000000000000
+    Position.Y = 260.000000000000000000
+    Size.Width = 633.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 20.000000000000000000
+    TextSettings.HorzAlign = Center
+    TabOrder = 2
+  end
+end

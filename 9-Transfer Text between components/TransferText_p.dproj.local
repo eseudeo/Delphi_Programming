@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.852,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi_Programming_Course\9-Transfer Text between components\TransferText_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.852,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Delphi_Programming_Course\9-Transfer Text between components\TransferText_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.542,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi_Programming_Course\9-Transfer Text between components\TransferText_p.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.672,=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
