@@ -1,0 +1,14 @@
+program Naming_p;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  Naming_u in 'Naming_u.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

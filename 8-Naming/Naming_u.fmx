@@ -1,0 +1,23 @@
+object frmHome: TfrmHome
+  Left = 0
+  Top = 0
+  Caption = #49353#44628' '#48148#44984#44592
+  ClientHeight = 101
+  ClientWidth = 172
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object lblChange: TLabel
+    StyledSettings = [Family, FontColor]
+    Position.X = 24.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 53.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 22.000000000000000000
+    TextSettings.Font.StyleExt = {00090000000000000004000000}
+    Text = #51077#47141#54616#49884#50724
+    TabOrder = 1
+  end
+end
