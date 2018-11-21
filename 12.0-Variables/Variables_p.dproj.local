@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.873,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi_Programming_Course\12.0-Variables\Variables_p.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.895,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Delphi_Programming_Course\12.0-Variables\Variables_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.895,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi_Programming_Course\12.0-Variables\Variables_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.465,=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018-04-28 16:22:53.794,D:\Delphi_Programming_Course\12.1-Using Class Helpers when Converting Variables\Variables_u.fmx=D:\Delphi_Programming_Course\12.0-Variables\Variables_u.fmx</Transaction>
+    <Transaction>2018-04-28 16:22:53.794,D:\Delphi_Programming_Course\12.1-Using Class Helpers when Converting Variables\Variables_u.pas=D:\Delphi_Programming_Course\12.0-Variables\Variables_u.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
