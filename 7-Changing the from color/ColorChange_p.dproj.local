@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.336,D:\Delphi_Programming_Course\7-Changing the from color\frm_Home_u.pas=D:\Delphi_Programming_Course\7-Changing the from color\ColorChange_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.159,D:\Delphi_Programming_Course\7-Changing the from color\frm_Home_u.pas=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frm_Home_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.336,D:\Delphi_Programming_Course\7-Changing the from color\frm_Home_u.fmx=D:\Delphi_Programming_Course\7-Changing the from color\ColorChange_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.703,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frm_Home_u.fmx=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.159,D:\Delphi_Programming_Course\7-Changing the from color\frm_Home_u.fmx=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frm_Home_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.768,=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.703,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\frm_Home_u.pas=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.101,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Delphi_Course_Video_7.dproj=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.000,D:\Delphi_Programming_Course\7-Changing the from color\Delphi_Course_Video_7.dproj=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Delphi_Course_Video_7.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.526,D:\Delphi_Programming_Course\7-Changing the from color\Delphi_Course_Video_7.dproj=D:\Delphi_Programming_Course\7-Changing the from color\ColorChange_p.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

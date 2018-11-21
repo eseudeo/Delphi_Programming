@@ -1,0 +1,48 @@
+object Shaun: TShaun
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 645
+  ClientWidth = 833
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 8.000000000000000000
+    Position.Y = 4.000000000000000000
+    Size.Width = 813.000000000000000000
+    Size.Height = 197.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Blue'
+    TextSettings.Font.Size = 48.000000000000000000
+    OnClick = frmBlue
+  end
+  object Button2: TButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 8.000000000000000000
+    Position.Y = 220.000000000000000000
+    Size.Width = 813.000000000000000000
+    Size.Height = 197.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Black'
+    TextSettings.Font.Size = 48.000000000000000000
+    OnClick = frmBlack
+  end
+  object Button3: TButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 8.000000000000000000
+    Position.Y = 432.000000000000000000
+    Size.Width = 813.000000000000000000
+    Size.Height = 197.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Red'
+    TextSettings.Font.Size = 48.000000000000000000
+    OnClick = frmRed
+  end
+end

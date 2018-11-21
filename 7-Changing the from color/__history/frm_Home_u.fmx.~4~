@@ -1,0 +1,51 @@
+object frmHome: TfrmHome
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 500
+  ClientWidth = 420
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 60.000000000000000000
+    Position.Y = 28.000000000000000000
+    Size.Width = 300.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = #54028#46976#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlue
+  end
+  object Button2: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 60.000000000000000000
+    Position.Y = 184.000000000000000000
+    Size.Width = 300.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = #44160#51008#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlack
+  end
+  object Button3: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 60.000000000000000000
+    Position.Y = 340.000000000000000000
+    Size.Width = 300.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = #48744#44036#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmRed
+  end
+end

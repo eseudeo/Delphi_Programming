@@ -1,0 +1,46 @@
+unit frm_Home_u;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs,
+  FMX.Controls.Presentation, FMX.StdCtrls;
+
+type
+  TShaun = class(TForm)
+    Button1: TButton;
+    Button2: TButton;
+    Button3: TButton;
+    procedure frmBlue(Sender: TObject);
+    procedure frmBlack(Sender: TObject);
+    procedure frmRed(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Shaun: TShaun;
+
+implementation
+
+{$R *.fmx}
+
+procedure TShaun.frmBlack(Sender: TObject);
+begin
+  Shaun.Fill.Color := TAlphaColors.Black;
+end;
+
+procedure TShaun.frmBlue(Sender: TObject);
+begin
+  Shaun.Fill.Color := TAlphaColors.Blue;
+end;
+
+procedure TShaun.frmRed(Sender: TObject);
+begin
+  Shaun.Fill.Color := TAlphaColors.Red;
+end;
+
+end.

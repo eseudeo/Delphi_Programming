@@ -1,0 +1,220 @@
+object frmHome: TfrmHome
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 446
+  ClientWidth = 439
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 4.000000000000000000
+    Position.Y = 4.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 15
+    Text = #54028#46976#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlue
+  end
+  object Button2: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 4.000000000000000000
+    Position.Y = 116.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 13
+    Text = #44160#51008#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlack
+  end
+  object Button3: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 4.000000000000000000
+    Position.Y = 228.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 10
+    Text = #48744#44036#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button4: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 112.000000000000000000
+    Position.Y = 4.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 14
+    Text = #54616#50560#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlue
+  end
+  object Button5: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 112.000000000000000000
+    Position.Y = 116.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 12
+    Text = #54924#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlack
+  end
+  object Button6: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 112.000000000000000000
+    Position.Y = 228.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    Text = #48516#54861#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button7: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 220.000000000000000000
+    Position.Y = 4.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 11
+    Text = #52488#47197#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlue
+  end
+  object Button8: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 220.000000000000000000
+    Position.Y = 116.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    Text = #51008#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlack
+  end
+  object Button9: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 220.000000000000000000
+    Position.Y = 228.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = #44040#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button10: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 328.000000000000000000
+    Position.Y = 4.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 7
+    Text = #48372#46972#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlue
+  end
+  object Button11: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 328.000000000000000000
+    Position.Y = 116.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = #44552#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmBlack
+  end
+  object Button12: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 328.000000000000000000
+    Position.Y = 228.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = #51452#54889#49353
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button13: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 4.000000000000000000
+    Position.Y = 336.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 9
+    Text = #46972#51076
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button14: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 112.000000000000000000
+    Position.Y = 336.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = #47560#47340
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button15: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 220.000000000000000000
+    Position.Y = 336.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = #48288#51060#51648
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmMaroon
+  end
+  object Button16: TButton
+    StyledSettings = [Family, FontColor]
+    Position.X = 328.000000000000000000
+    Position.Y = 336.000000000000000000
+    Size.Width = 100.000000000000000000
+    Size.Height = 100.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = #50500#53216#50500
+    TextSettings.Font.Size = 30.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = frmAqua
+  end
+end
