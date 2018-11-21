@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.304,D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRaidobtn_u.fmx=D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRadiobtn_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.554,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRadiobtn_p.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.696,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRaidobtn_u.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.304,D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRaidobtn_u.pas=D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRadiobtn_u.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.248,=C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.696,C:\Users\Esther\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi_Programming_Course\10-Using Radio Buttons (to change form color)\UsingRaidobtn_u.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

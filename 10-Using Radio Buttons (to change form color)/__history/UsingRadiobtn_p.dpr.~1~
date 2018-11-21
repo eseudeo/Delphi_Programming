@@ -1,0 +1,14 @@
+program UsingRadiobtn_p;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  UsingRaidobtn_u in 'UsingRaidobtn_u.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

@@ -1,0 +1,67 @@
+object frmHome: TfrmHome
+  Left = 0
+  Top = 0
+  Caption = 'frmHome'
+  ClientHeight = 480
+  ClientWidth = 640
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object rdbtnBlue: TRadioButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 35.000000000000000000
+    Position.Y = 212.000000000000000000
+    Size.Width = 150.000000000000000000
+    Size.Height = 37.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = #54028#46976#49353
+    TextSettings.Font.Size = 20.000000000000000000
+    OnMouseMove = frmBlue
+  end
+  object rdbtnRed: TRadioButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 36.000000000000000000
+    Position.Y = 277.000000000000000000
+    Size.Width = 150.000000000000000000
+    Size.Height = 19.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = #48744#44036#49353
+    TextSettings.Font.Size = 20.000000000000000000
+    OnMouseMove = frmRed
+  end
+  object rdbtnGreen: TRadioButton
+    StyledSettings = [Family, Style, FontColor]
+    Position.X = 37.000000000000000000
+    Position.Y = 332.000000000000000000
+    Size.Width = 150.000000000000000000
+    Size.Height = 19.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = #52488#47197#49353
+    TextSettings.Font.Size = 20.000000000000000000
+    OnMouseMove = frmGreen
+  end
+  object pnlColorText: TPanel
+    Align = Top
+    Size.Width = 640.000000000000000000
+    Size.Height = 120.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    object lblColor: TLabel
+      Align = Client
+      StyledSettings = [Family, FontColor]
+      Size.Width = 640.000000000000000000
+      Size.Height = 120.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 28.000000000000000000
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      TextSettings.HorzAlign = Center
+      Text = #49353#44628
+      TabOrder = 0
+    end
+  end
+end
